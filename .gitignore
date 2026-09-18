@@ -1,0 +1,7 @@
+captures/
+config/config.yml
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
